@@ -1,4 +1,4 @@
-# Multiplayer-Fight
+# TKO-Figthers
 Fighting - 2D Java Game!
 
 ![](Images/GameImage.png)
